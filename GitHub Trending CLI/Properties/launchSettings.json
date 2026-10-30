@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GitHub Trending CLI": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
