@@ -31,3 +31,5 @@ Error Handling: Implement robust error handling for invalid input and API errors
 Documentation: Provide clear instructions on how to install and use the tool.
 
 Example Usage: trending-repos --duration month --limit 20
+
+link from Roadmap.Sh https://roadmap.sh/projects/github-trending-cli
